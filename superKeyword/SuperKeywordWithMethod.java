@@ -2,7 +2,7 @@ package org.tnsif.superkeyword;
 
 class MET
 {
-	String ownerName="Chagan Bhujbal";
+	String ownerName="Tamanna";
 	void displayName()
 	{
 		System.out.println("owner is:"+ownerName);
@@ -10,7 +10,7 @@ class MET
 }
 class BKC extends MET
 {
-	String ownerName="Sheffali Bhujbal";
+	String ownerName="Bothra";
 	
 	void displayName()
 	{
